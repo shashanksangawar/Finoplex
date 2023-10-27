@@ -87,6 +87,14 @@ body
 
 
 /* ================ Breakpoints ================ */
+@media (max-width: 1400px),(max-height: 900px)
+{
+    .home 
+    {
+        margin-top: -45%;
+    }
+}
+
 @media (max-width: 1280px)
 {
     .navbar-btn .btn
@@ -113,6 +121,11 @@ body
     {
         margin-left: -30vh;
     }
+
+    .home 
+    {
+        margin-top: -55%;
+    }
 }
 
 @media (max-width: 1024px)
@@ -138,6 +151,11 @@ body
     #menu-list
     {
         margin-left: -20vh;
+    }
+
+    .home 
+    {
+        margin-top: -125%;
     }
 }
 
@@ -257,6 +275,11 @@ body
         font-size: 5vw;
         margin-left: -15vh;
     }
+
+    .home 
+    {
+        margin-top: -145%;
+    }
     
 }
 @media (max-width: 375px)
@@ -310,10 +333,5 @@ body
     .home-btn .butn  
     {
         font-size: 1.8vh;
-    }
-
-    .home 
-    {
-        margin-top: -65%;
     }
 }
