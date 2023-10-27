@@ -311,4 +311,9 @@ body
     {
         font-size: 1.8vh;
     }
+
+    .home 
+    {
+        margin-top: -65%;
+    }
 }
